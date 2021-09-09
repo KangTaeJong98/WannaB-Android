@@ -6,14 +6,17 @@
 ## 😊 Introduction
 ### Server WannaB 
 핸드폰에 저장된 본인의 사진을 선택하면 서버에 저장된 화장 데이터를 통해 여러가지 화장이 적용된 이미지를 볼 수 있습니다.
+
 <img src="./readme/ServerWannaB1.png" alt="ServerWannaB1" width="30%"><img src="./readme/SeverWannaB2.png" alt="SeverWannaB2" width="30%">
 
 ### Local WannaB
 본인의 사진과 본인이 원하는 화장된 이미지를 선택하여 화장이 적용된 이미지를 볼 수 있습니다.
+
 <img src="./readme/LocalWannaB1.png" alt="LocalWannaB1" width="30%">
 
 ### Result WannaB
 화장된 결과, 화장품 정보, 화장 방법을 상세하게 볼 수 있습니다.
+
 <img src="./readme/1.png" alt="1" width="30%"><img src="./readme/2.png" alt="2" width="30%"><img src="./readme/3.png" alt="3" width="30%">
 
 ## 📜 AI Model
